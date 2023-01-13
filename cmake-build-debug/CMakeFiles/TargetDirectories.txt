@@ -1,0 +1,3 @@
+/Users/siva-6452/CLionProjects/Sorting/cmake-build-debug/CMakeFiles/Sorting.dir
+/Users/siva-6452/CLionProjects/Sorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/siva-6452/CLionProjects/Sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
